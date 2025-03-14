@@ -11,3 +11,7 @@ Summarize some common Web3-related websites, welcome to contribute.
 [Solodit](https://profiles.cyfrin.io/solodit): Smart Contract Security Audit Report Summary
 
 [Security Incidents Dashboard](https://app.blocksec.com/explorer/security-incidents): The attack incidents causing losses exceeding $100K
+
+# Smart Contract Analysis
+
+[Dedaub](https://app.dedaub.com/): Ethereum-compatible contract decompilation, formal methods and security monitoring
